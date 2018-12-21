@@ -17,3 +17,7 @@
 - แนวข้อสอบ ตํารวจสายอํานวยการ
 
 ![alt text](https://github.com/masterprohd/-/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206%20Plus%20-%202018-11-27%20at%2018.33.28.png)
+
+
+
+text editor for macos
